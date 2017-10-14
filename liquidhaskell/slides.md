@@ -1171,7 +1171,7 @@ extra-deps:
 - fgl-visualize-0.1.0.1
 - intern-0.9.1.4
 - liquid-fixpoint-0.6.0.1
-- liquid-haskell-0.8.0.1
+- liquidhaskell-0.8.0.1
 - located-base-0.1.1.1
 ```
 
